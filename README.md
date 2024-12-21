@@ -11,7 +11,7 @@ Follow the instructions below to get a local copy of the project up and running 
 First, you need to clone the repository to your local machine. Open your terminal and run the following command:
 
 ```bash
-git clone git@github.com:rivopelu/film-recomendation.git
+git clone git@github.com/ariefrss/Film-recomendation
 ```
 
 ## 2. Open the Project in a Code Editor
